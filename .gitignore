@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+session_log.csv
+audio/*.mp3
+audio/*.wav
